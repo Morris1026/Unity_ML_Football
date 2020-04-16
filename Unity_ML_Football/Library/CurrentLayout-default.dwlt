@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 106
+  controlID: 67
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 132
+  controlID: 22
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -412,8 +412,8 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 78380000
-    m_LastClickedID: 14456
+    m_SelectedIDs: 6c380000
+    m_LastClickedID: 14444
     m_ExpandedIDs: 000000003e3800004038000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -469,7 +469,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -671,9 +671,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.20129557, y: 0.3702694, z: -0.0825311, w: -0.9030965}
+    m_Target: {x: -0.20683901, y: 0.32087857, z: -0.07202789, w: -0.92145646}
     speed: 2
-    m_Value: {x: -0.20129418, y: 0.37026682, z: -0.08253053, w: -0.90309024}
+    m_Value: {x: -0.2068374, y: 0.3208761, z: -0.07202733, w: -0.9214493}
   m_Size:
     m_Target: 7.9491796
     speed: 2

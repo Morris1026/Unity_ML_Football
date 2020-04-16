@@ -199,7 +199,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 117910766}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0.55, z: 6.5}
+  m_LocalPosition: {x: 0, y: 0.55, z: 2.039}
   m_LocalScale: {x: 0.1, y: 1, z: 3.3}
   m_Children: []
   m_Father: {fileID: 0}
@@ -283,7 +283,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 236130627}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.6, y: 0.5, z: 6}
+  m_LocalPosition: {x: -1.6, y: 0.5, z: 1.539}
   m_LocalScale: {x: 0.1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -365,13 +365,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 277107890}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: 0.30070576, y: 0, z: 0, w: 0.953717}
+  m_LocalPosition: {x: 0, y: 3, z: -2.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 35, y: 0, z: 0}
 --- !u!1 &658071988
 GameObject:
   m_ObjectHideFlags: 0
@@ -459,7 +459,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 658071988}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.49, z: 6}
+  m_LocalPosition: {x: 0, y: 0.49, z: 1.539}
   m_LocalScale: {x: 3.0323575, y: 1.0328474, z: 0.57357}
   m_Children: []
   m_Father: {fileID: 0}
@@ -669,7 +669,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400078, guid: 461413943bab6ef40aa2a33f18380180, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -0.886
       objectReference: {fileID: 0}
     - target: {fileID: 400078, guid: 461413943bab6ef40aa2a33f18380180, type: 3}
       propertyPath: m_LocalRotation.x
@@ -765,7 +765,7 @@ MonoBehaviour:
     maxStep: 0
   hasUpgradedFromAgentParameters: 1
   maxStep: 0
-  speed: 10
+  speed: 50
 --- !u!114 &864921989
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -816,7 +816,7 @@ MonoBehaviour:
     vectorActionSpaceType: 1
   m_Model: {fileID: 0}
   m_InferenceDevice: 0
-  m_BehaviorType: 1
+  m_BehaviorType: 0
   m_BehaviorName: RotbotBrain
   TeamId: 0
   m_UseChildSensors: 1
@@ -840,7 +840,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: f803e172379358f45bdee14fec6e635d,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 6
+      value: 1.539
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: f803e172379358f45bdee14fec6e635d,
         type: 3}
@@ -967,7 +967,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1223937734}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.6, y: 0.5, z: 6}
+  m_LocalPosition: {x: 1.6, y: 0.5, z: 1.539}
   m_LocalScale: {x: 0.1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1061,7 +1061,7 @@ Transform:
   m_GameObject: {fileID: 2079653177}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 15, y: 0.1, z: 15}
+  m_LocalScale: {x: 5, y: 0.1, z: 5}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 5

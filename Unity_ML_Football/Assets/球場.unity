@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.7740739, g: 0.7434928, b: 0.65342814, a: 1}
+  m_IndirectSpecularColor: {r: 0.77404046, g: 0.7435082, b: 0.6514916, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -780,6 +780,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DecisionPeriod: 10
   TakeActionsBetweenDecisions: 1
+  offsetStep: 0
 --- !u!114 &864921990
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -814,10 +815,10 @@ MonoBehaviour:
     vectorActionSize: 02000000
     vectorActionDescriptions: []
     vectorActionSpaceType: 1
-  m_Model: {fileID: 0}
+  m_Model: {fileID: 5022602860645237092, guid: f5c2ed8cf8289584d88a81e02d05c1c6, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
-  m_BehaviorName: RotbotBrain
+  m_BehaviorName: FUCKBrain
   TeamId: 0
   m_UseChildSensors: 1
 --- !u!1001 &1104125833
